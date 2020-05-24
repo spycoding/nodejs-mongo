@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-mongodb",
+  "version": "1.0.0",
+  "description": "Node js and mongo db connection and mongo query",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spycoding/nodejs-mongo.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Mongodb",
+    "MongoDb",
+    "queries",
+    "Mongoose"
+  ],
+  "author": "Abhay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spycoding/nodejs-mongo/issues"
+  },
+  "homepage": "https://github.com/spycoding/nodejs-mongo#readme"
+}
